@@ -1,0 +1,12 @@
+<svg id="time_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_83" data-name="Rectangle 83" d="M7,0H7a7,7,0,0,1,7,7v7a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" transform="translate(0 445.142)" fill="#baa378" opacity="0.89"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -445.142)" clip-path="url(#clip-path)">
+    <g id="_211718_clock_icon" data-name="211718_clock_icon" transform="translate(0.099 445.166)">
+      <path id="Path_232" data-name="Path 232" d="M51.682,45a6.777,6.777,0,1,0,6.682,6.777A6.729,6.729,0,0,0,51.682,45Zm.546,7.33H48.6v-.554h3.084v-4.17h.546Z" transform="translate(-45 -45)" fill="#baa378"/>
+    </g>
+  </g>
+</svg>
